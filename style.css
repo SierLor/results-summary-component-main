@@ -16,7 +16,7 @@ body{
     display: flex;
     width: 740px;
     height: 515px;
-    margin: 210px auto;
+    margin: 100px auto;
     border-radius: 0px 30px 30px 0px;
     box-shadow: 20px 20px 20px rgba(128, 128, 128, 0.199);
 }
